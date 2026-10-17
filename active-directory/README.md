@@ -79,7 +79,4 @@ does not verify internet connectivity.
 - Add screenshots with passwords and personal
   information hidden.
 
-## Learning resources and assistance
-Used ChatGPT to help troubleshoot connectivity and
-interpret network settings. The exact cause of the
-internet issue still needs review.
+
